@@ -1,0 +1,30 @@
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.exe
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.deps.json
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.runtimeconfig.json
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.dll
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.pdb
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.csproj.AssemblyReference.cache
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.AssemblyInfoInputs.cache
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.AssemblyInfo.cs
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.csproj.CoreCompileInputs.cache
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.dll
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\refint\HomeWork25Array6.dll
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.pdb
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.genruntimeconfig.cache
+D:\Projects CS\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\ref\HomeWork25Array6.dll
+D:\Repos\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.exe
+D:\Repos\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.deps.json
+D:\Repos\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.runtimeconfig.json
+D:\Repos\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.dll
+D:\Repos\HomeWork25Array6\HomeWork25Array6\bin\Debug\net6.0\HomeWork25Array6.pdb
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.csproj.AssemblyReference.cache
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.AssemblyInfoInputs.cache
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.AssemblyInfo.cs
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.csproj.CoreCompileInputs.cache
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.dll
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\refint\HomeWork25Array6.dll
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.pdb
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\HomeWork25Array6.genruntimeconfig.cache
+D:\Repos\HomeWork25Array6\HomeWork25Array6\obj\Debug\net6.0\ref\HomeWork25Array6.dll
